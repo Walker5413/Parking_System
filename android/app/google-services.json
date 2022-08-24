@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "569590686145",
+    "project_id": "phone-auth-c4365",
+    "storage_bucket": "phone-auth-c4365.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:569590686145:android:542fd10faa5ad147c7cf40",
+        "android_client_info": {
+          "package_name": "com.example.danpark"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "569590686145-ovu7jvfpr5o2b32uc1gf62dec6nfboht.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.danpark",
+            "certificate_hash": "b4c33b66ce1bbd5133b63adf5e61eac3a0b17cf5"
+          }
+        },
+        {
+          "client_id": "569590686145-mmqbruqu8karu42lqpmd33o1g39f8lkt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCV6S94-7nSncrFcO19kFgQarrvCAuHCEY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "569590686145-mmqbruqu8karu42lqpmd33o1g39f8lkt.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "569590686145-t3rul9pgspl3fnehqn46gsihpqugd2ik.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.onboardingscreen"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
